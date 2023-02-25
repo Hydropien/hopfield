@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 
 import de.informatics4kids.Picture;
-
+ 
 public class Utils {
 
 	public static void plotMatrix(double[][] matrix) {

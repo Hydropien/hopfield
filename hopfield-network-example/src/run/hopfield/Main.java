@@ -12,7 +12,7 @@ public class Main {
 	 * 
 	 * @author ricus
 	 */
-
+ 
 	/*
 	 * Verbesserungen: Korrekte Behandlung von fehlerhaften Inputs
 	 * 

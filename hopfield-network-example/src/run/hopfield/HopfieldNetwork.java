@@ -42,6 +42,7 @@ public class HopfieldNetwork {
 			neurons[i] = 0;
 			for (int j = 0; j < weights[0].length; j++) {
 				weights[i][j] = r.nextDouble();
+				
 			}
 		}
 	}

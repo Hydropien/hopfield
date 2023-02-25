@@ -1,7 +1,7 @@
 package run.hopfield;
 
 public class MatrixMath {
-
+ 
 	public static double[][] matrixMultiplication(double[][] matrix1, double[][] matrix2) {
 		boolean possibleMultiplication = false;
 		possibleMultiplication = (matrix1[0].length == matrix2.length) ? true : false;

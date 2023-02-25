@@ -19,7 +19,7 @@ public class ImageViewer {
 	private int imgIndex;
 	private JLabel iterations;
 	private JLabel imageLabel;
-
+  
 	public ImageViewer(List<BufferedImage> inImages) {
 		this.images = inImages;
 		imgIndex = 0;
